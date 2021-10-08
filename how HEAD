@@ -1,0 +1,26 @@
+[33mcommit 684edc4638430388180a3721b33bb8b85bf6ac55[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: lcrazyl <swiftslee@gmail.com>
+Date:   Fri Oct 8 15:28:55 2021 +0800
+
+    foir
+
+ 1.word | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 48afa81a73fade1f23cb3c4f23e861731ac0f74b[m
+Author: lcrazyl <swiftslee@gmail.com>
+Date:   Fri Oct 8 15:11:45 2021 +0800
+
+    1.txt
+
+ 1.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 1bea315ca74c1b52d0d06c1dec8b3b1573a5fc4f[m[33m ([m[1;33mtag: learn[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: lcrazyl <swiftslee@gmail.com>
+Date:   Fri Oct 8 14:24:01 2021 +0800
+
+    first push index1.0
+
+ index.html | 12 [32m++++++++++++[m
+ 1 file changed, 12 insertions(+)
